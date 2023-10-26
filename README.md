@@ -1,6 +1,6 @@
 ## Hello! Looks like you're interested in what I do. Here's a synopsis:
 
-I am a Software Engineer with 2 years of experience. My skills as an engineer are summarized as icons below. Apart from Software I love to read, write and learn more and more about Physics and Astronomy as a hobby.
+I am a Software Engineer with 2 years of experience working on Backend Systems and the Cloud. My skills as an engineer are summarized as icons below. Apart from Software I love to read, write and learn more and more about Physics and Astronomy as a hobby.
 
 
 I am currently learning (or at least trying to learn) Rust 🦀 and how CPUs, the Operating System, or basically how computer systems work under the hood. 
